@@ -1,2 +1,2 @@
 # foxfs
-FAT32 file system for OS assignment
+FAT based file system for OS assignment
