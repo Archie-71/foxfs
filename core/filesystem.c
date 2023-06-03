@@ -55,7 +55,6 @@ int deleteFile(const char* name);
 int createDirectory(const char* name);
 int deleteDirectory(const char* name);
 int setCurrentDirectoryIndex(const char* dirname);
-int setCurrentDirectoryIndex(const char* dirname);
 void listCurrentDirectoryEntry(char* infoBuf);
 int renameFile(const char* filename, const char* newname);
 int moveFile(const char* filename, const char* dirname);
